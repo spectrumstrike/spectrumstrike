@@ -1,5 +1,5 @@
 - 👋 Hi I'm Will
-- 👀 Just a place to host my few out of school projects
+- 👀 Just a place to host my projects
 
 <!---
 spectrumstrike/spectrumstrike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
