@@ -1,5 +1,5 @@
-- 👋 Wassup I'm Will
-- 👀 balls.cpp
+- 👋 Hi I'm Will
+- 👀 Just a place to host my few out of school projects
 
 <!---
 spectrumstrike/spectrumstrike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
